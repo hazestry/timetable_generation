@@ -4,7 +4,7 @@
 
 ```
 .
-├── schedule_generation.ipynb     # основной ноутбук: eda, обучение моделей, генерация
+├── timetable_generation.ipynb     # основной ноутбук: eda, обучение моделей, генерация
 ├── app.py                        # streamlit-приложение
 ├── generator.py                  # модуль генератора (используется приложением)
 ├── class-schedules.csv           # исходный датасет
